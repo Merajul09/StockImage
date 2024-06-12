@@ -1,6 +1,6 @@
 # Create some own Stock images
 
-### More Photos coming soon....
+### More Photos and Links coming soon....
 ##### Stay with us
 
 ### Type uppercase name like (ex. HTML/CSS/JAVASCRIPT) for image `random`
